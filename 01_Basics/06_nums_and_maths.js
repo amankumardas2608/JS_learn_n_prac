@@ -47,7 +47,7 @@ console.log(Math.random()*1000); //Before decimal => 3 number.
 console.log((Math.random()*10) + 1); //Min value 1 aayega 0 toh nhi aayega decimal ke phele...
 console.log(Math.floor(Math.random()*10) + 1); //same hai bas round off kar deta toh the lowest value..ek hee random no. aayega
 
-//Random values btw any two nums---------------------------------------------------------------------------------------------------
+//Random values btw any two nums(IMP)---------------------------------------------------------------------------------------------------
 const min = 10
 const max = 20
 
